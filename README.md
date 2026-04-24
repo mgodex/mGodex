@@ -3,14 +3,14 @@
 ## About Me :wave:
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mengGod129)](https://twitter.com/mengGod129)
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mengGod129@163.com)](mailto:mengGod129@163.com)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mgodex@163.com)](mailto:mgodex@163.com)
 [![bilibili](https://img.shields.io/badge/-bilibili-1ca0f1?style=flat&logo=bilibili&logoColor=white&link=https://space.bilibili.com/401691307)](https://space.bilibili.com/401691307)
 
-Hi, I'm MengGod!
+Hi, I'm mGod!
 
 I love creating and tinkering with small, static websites using frameworks like hexo or Hugo.Welcome to my [website](https://www.meng.me/).
 
-I'm always looking to work with people that are hopeless idealists like me, as well as who are interested in creating and working on cool, interesting, and meaningful projects! Shoot me [an e-mail](mailto:mengGod129@163.com) if that sounds like your cup of tea. :coffee:
+I'm always looking to work with people that are hopeless idealists like me, as well as who are interested in creating and working on cool, interesting, and meaningful projects! Shoot me [an e-mail](mailto:mgodex@163.com) if that sounds like your cup of tea. :coffee:
 
 <!-- More info on badges below: https://github.com/badges/shields/blob/master/doc/logos.md -->
 
